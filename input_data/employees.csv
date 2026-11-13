@@ -1,0 +1,9 @@
+record_id,employee,department,date,salary,performance_score
+1,Aarav Sharma,IT,2026-01-10,65000.0,4.5
+2,Meera Gupta, hr ,10/02/2026,58000.0,4.2
+3,Rohan Verma,Finance,2026-02-15,72000.0,4.7
+4,Sara Khan,IT,2026-03-01,69000.0,4.1
+5,Nisha Rao,HR,03/05/2026,,4.4
+6,Kabir Singh,Finance,2026-03-12,75000.0,5.2
+6,Kabir Singh,Finance,2026-03-12,75000.0,5.2
+8,Isha Jain,Operations,invalid-date,-1000.0,3.8
